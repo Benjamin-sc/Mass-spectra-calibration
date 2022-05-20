@@ -1,5 +1,5 @@
 # Mass-spectra-calibration
-GUI that allows to load spectra measurement from an excel sheet and perform a mass calibration.
+GUI that allows to load spectra measurement from an excel sheet and easily perform a mass calibration.
 
 
 The interface looks like the figure below. The first section allows to load the data from an excel sheet. The "load spectrum button" opens your folder window and you have to select the excel sheet that contains your datas. You have to specify the time column and row and the voltage column and row.
